@@ -262,6 +262,7 @@ img {
 .home__img {
     justify-self: flex-end;
 }
+
 /* ========== BREAKPOINTS ========== */
 @media screen and (max-width: 1400px) {
     .container {
